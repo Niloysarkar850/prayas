@@ -24,28 +24,8 @@ const PhotoGallery = () => {
       alt: "PRAYAS volunteer with children showing care and support",
       title: "Compassionate Care",
       description: "Our dedicated volunteers and team members provide not just services, but genuine care and support to every family we serve."
-    },
-    {
-      id: 4,
-      src: "public/lovable-uploads/WhatsApp Image 2025-05-10 at 20.05.32.jpeg",
-      alt: "PRAYAS volunteer with children showing care and support",
-      title: "Learning",
-      description: "Our dedicated volunteers and team members provide not just services, but genuine care and support to every family we serve."
-    },
-    {
-      id: 5,
-      src: "public/lovable-uploads/WhatsApp Image 2025-05-24 at 18.35.20.jpeg",
-      alt: "PRAYAS volunteer with children showing care and support",
-      title: "Child Care",
-      description: "Our dedicated volunteers and team members provide not just services, but genuine care and support to every family we serve."
-    },
-    {
-      id: 4,
-      src: "public/lovable-uploads/WhatsApp Image 2025-07-27 at 18.56.29.jpeg",
-      alt: "PRAYAS volunteer with children showing care and support",
-      title: "Compassionate Care",
-      description: "Our dedicated volunteers and team members provide not just services, but genuine care and support to every family we serve."
     }
+   
   ];
 
   return (
